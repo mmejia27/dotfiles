@@ -1,0 +1,6 @@
+[submodule "configs/bash/git-aware-prompt"]
+	path = configs/bash/git-aware-prompt
+	url = git@github.com:jimeh/git-aware-prompt.git
+[submodule "configs/bash/bash-git-prompt"]
+	path = configs/bash/bash-git-prompt
+	url = https://github.com/magicmonty/bash-git-prompt.git

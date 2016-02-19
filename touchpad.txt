@@ -1,0 +1,43 @@
+Device 'AlpsPS/2 ALPS DualPoint TouchPad':
+	Device Enabled (167):	1
+	Coordinate Transformation Matrix (169):	1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000
+	Device Accel Profile (289):	1
+	Device Accel Constant Deceleration (290):	2.500000
+	Device Accel Adaptive Deceleration (291):	1.000000
+	Device Accel Velocity Scaling (292):	12.500000
+	Synaptics Edges (293):	300, 1700, 210, 1190
+	Synaptics Finger (294):	1, 15, 255
+	Synaptics Tap Time (295):	350
+	Synaptics Tap Move (296):	107
+	Synaptics Tap Durations (297):	180, 100, 100
+	Synaptics ClickPad (298):	0
+	Synaptics Middle Button Timeout (299):	75
+	Synaptics Two-Finger Pressure (300):	5
+	Synaptics Two-Finger Width (301):	7
+	Synaptics Scrolling Distance (302):	-100, -100
+	Synaptics Edge Scrolling (303):	0, 0, 0
+	Synaptics Two-Finger Scrolling (304):	1, 1
+	Synaptics Move Speed (305):	2.000000, 2.000000, 0.100000, 0.100000
+	Synaptics Off (306):	2
+	Synaptics Locked Drags (307):	0
+	Synaptics Locked Drags Timeout (308):	5000
+	Synaptics Tap Action (309):	2, 3, 0, 0, 1, 3, 0
+	Synaptics Click Action (310):	1, 1, 0
+	Synaptics Circular Scrolling (311):	0
+	Synaptics Circular Scrolling Distance (312):	0.100000
+	Synaptics Circular Scrolling Trigger (313):	0
+	Synaptics Circular Pad (314):	0
+	Synaptics Palm Detection (315):	1
+	Synaptics Palm Dimensions (316):	89, 1232369007
+	Synaptics Coasting Speed (317):	20.000000, 50.000000
+	Synaptics Pressure Motion (318):	10, 40
+	Synaptics Pressure Motion Factor (319):	1.000000, 1.000000
+	Synaptics Resolution Detect (320):	1
+	Synaptics Grab Event Device (321):	0
+	Synaptics Gestures (322):	1
+	Synaptics Capabilities (323):	1, 1, 1, 1, 1, 1, 0
+	Synaptics Pad Resolution (324):	32, 25
+	Synaptics Area (325):	0, 0, 0, 0
+	Synaptics Noise Cancellation (326):	50, 50
+	Device Product ID (284):	2, 8
+	Device Node (285):	"/dev/input/event8"
