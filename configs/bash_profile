@@ -93,3 +93,4 @@ source ~/.bash/bash-git-prompt/gitprompt.sh
 GIT_PROMPT_ONLY_IN_REPO=1
 GIT_PROMPT_START_USER="${IBlack}\t ${BIYellow}${PathShort}${ResetColor} "
 GIT_PROMPT_END_USER=" _LAST_COMMAND_INDICATOR_\n${BIGreen}\u@\h${Color_Off} λ: "
+

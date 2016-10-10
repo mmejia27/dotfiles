@@ -20,3 +20,9 @@
   added = yellow
   changed = green
   untracked = cyan
+[diff]
+	tool = bc
+[merge]
+	tool = bc
+[difftool]
+	prompt = false
